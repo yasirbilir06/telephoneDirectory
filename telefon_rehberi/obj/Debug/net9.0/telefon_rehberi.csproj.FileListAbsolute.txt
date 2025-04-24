@@ -1,0 +1,14 @@
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/bin/Debug/net9.0/telefon_rehberi
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/bin/Debug/net9.0/telefon_rehberi.deps.json
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/bin/Debug/net9.0/telefon_rehberi.runtimeconfig.json
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/bin/Debug/net9.0/telefon_rehberi.dll
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/bin/Debug/net9.0/telefon_rehberi.pdb
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.AssemblyInfoInputs.cache
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.AssemblyInfo.cs
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.csproj.CoreCompileInputs.cache
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.dll
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/refint/telefon_rehberi.dll
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.pdb
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/telefon_rehberi.genruntimeconfig.cache
+/Users/yasirbilir/Desktop/telefon_rehberi/telefon_rehberi/obj/Debug/net9.0/ref/telefon_rehberi.dll
